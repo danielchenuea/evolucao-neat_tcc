@@ -40,6 +40,7 @@ Você vai ter:
 - Além de 1 indicador da distância (fitness) máximo obtido!
 
 Imagem de ilustração!
+
 ![EmuHawk_UiJKFPkie5](https://user-images.githubusercontent.com/55398457/186278606-3f857f6d-f5a3-429c-84df-c49a8fc5c048.png)
 
 ## Créditos
